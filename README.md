@@ -1,4 +1,4 @@
-# Implementing a Design from Scratch to build a Headphones Project
+# Implementing a Design from Scratch to build a Headphones Web Project
 
 ## Description
 
